@@ -58,6 +58,8 @@ Note: I printed the parts in multiple prints which resulted to a change in colou
 
 ## Assembly & wiring
 
+![Assembly](./docs/assembly.gif)
+
 ### Assembling the case
 
 The female case end cap should face to the left of the clock, as the power cable that connects to the Raspberry Pi will face the left as well. You can invert it if needed, but I found that aesthetically and practically it was easier to have all the cables facing the same direction. You will assemble the case by following the steps below.
